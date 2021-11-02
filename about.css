@@ -1,0 +1,58 @@
+.main
+{
+	max-width:500!important;
+	margin:auto;
+	margin-top:4%;
+	font-family:sans-serif;
+	
+}
+.top
+{
+	background-color:palevioletred;
+	width:99%;
+	height:80px;
+	color:darkgreen;
+	padding-top:3px;
+	padding-left:10px;
+	border:2px solid darkgreen;
+	border-bottom:none;
+	display:inline-block;
+}
+
+.main h1
+{
+	text-align:left;
+	padding-top:3px;
+	padding-left:10px;
+}
+
+
+
+.groups
+{
+	border:2px outset darkgreen;
+	width:50%;
+	height:500px;
+	margin-left:55px;
+	margin-top:1%;
+	padding-left:15px;
+	text-align:left;
+	font-size:25px;
+	padding-bottom:15px;
+	
+}
+
+b
+{
+	font-size:20px;
+}
+
+
+img
+{
+	float:right;
+	padding-top:none;
+	height:500px;
+	width:40%;
+	position:relative;
+}
